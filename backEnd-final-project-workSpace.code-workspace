@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "eureka"
+		},
+		{
+			"path": "gatway"
+		},
+		{
+			"path": "steam"
+		},
+		{
+			"path": "usuario"
+		}
+	],
+	"settings": {}
+}
